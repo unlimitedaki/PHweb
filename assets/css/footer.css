@@ -1,0 +1,36 @@
+
+/*尾部链接*/
+*{
+    margin: 0px;
+    padding:0px;
+}
+.footer{
+    width:100%;
+	background-color:#DBDBDB;
+    display: inline-block;
+}
+.footbody{
+    width:90%;
+    margin: 0 auto;
+}
+.footer li{
+    float:left;
+}
+.footlist{
+    display: inline-block;
+    list-style-type:none;
+	
+}
+
+.footlist a{
+	display: block;
+    float: left;
+	/*font-weight:bold;*/
+    color:#000;
+    text-decoration: none;
+	padding:25px 20px 20px 20px;
+}
+ul{
+    margin-left:50px;
+}
+
